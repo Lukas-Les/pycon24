@@ -21,4 +21,3 @@ https://pypi.org/project/moto/
 * Tox - 
 https://tox.wiki/en/4.15.0/
 ![tox.png](screenshots%2Ftox.png)
-
